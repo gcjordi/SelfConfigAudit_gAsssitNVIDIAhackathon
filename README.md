@@ -33,3 +33,5 @@ python plugin.py "Can you reduce VRAM usage if the system is overheating?"
 ## License
 
 MIT License – Developed for NVIDIA G‑Assist Hackathon by Jordi (CiberTECCH / eHealthAI)
+
+> ⚠️ This project was developed using an AI in single-prompt mode and is intended solely as a **non-functional simulation**. No real hardware modifications are performed.
