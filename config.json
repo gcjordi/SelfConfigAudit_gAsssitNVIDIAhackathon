@@ -1,0 +1,9 @@
+{
+  "modifiables": {
+    "fan_speed": true,
+    "core_clock": true,
+    "cuda_cores": false,
+    "vram_allocation": false,
+    "power_limit": true
+  }
+}

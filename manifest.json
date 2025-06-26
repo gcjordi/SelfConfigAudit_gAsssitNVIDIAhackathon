@@ -1,0 +1,7 @@
+{
+  "name": "SelfConfigAudit",
+  "description": "A plugin to simulate autonomous hardware introspection and self-modification feasibility.",
+  "version": "1.0",
+  "author": "Jordi",
+  "entry_point": "plugin.py"
+}
